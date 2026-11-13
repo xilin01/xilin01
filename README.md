@@ -1,16 +1,20 @@
-## Hi there 👋
+<h2> ¡Hola! <img src="https://github.com/user-attachments/assets/1eaef943-2de3-4663-bcff-711b66090abb" width="50"></h2>
+<img align='right' src="https://github.com/user-attachments/assets/d2a63a36-0e8b-4a13-9741-5d6e9499b737" width="230">
 
-<!--
-**xilin01/xilin01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p><em>CS + AI @ <a href="https://www.ucm.es/">Universidad Complutense de Madrid</a></em></p>
 
-Here are some ideas to get you started:
+[![LinkedIn: xianglxn](https://img.shields.io/badge/LinkedIn-xianglxn-0A66C2?style=flat-square)](https://www.linkedin.com/in/xianglxn/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### <img src="https://github.com/user-attachments/assets/73f9bf3c-0a1f-404e-87ba-3438705c8209" width="50"> Sobre mí
+
+```python
+xiang = {
+    "lenguajes": ["Python", "C++", "Rust", "Java", "C"],
+    "herramientas": ["Git", "GitHub", "VS Code", "Claude Code", "Jupyter", "Docker", "Slack", "LaTeX"],
+    "arquitecturas": ["MLP", "Transformer", "Autoencoder", "RAG", "Agentes", "Multimodal"],
+    "intereses": ["IA", "ML", "NLP", "Programación Competitiva"],
+    "asociaciones": {
+        "organizador": "UCppM",
+        "mentor": ["Programa de Mentorías", "Programa de Apoyo entre Iguales"],
+    },
+}
