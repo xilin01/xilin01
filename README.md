@@ -7,12 +7,10 @@
 
 ## Sobre mí <img src="https://github.com/user-attachments/assets/73f9bf3c-0a1f-404e-87ba-3438705c8209" width="45"> 
 
-
-
 ```python
 xiang = {
-    "lenguajes": ["Python", "C++", "Rust", "Java", "C"],
-    "herramientas": ["Git", "GitHub", "VS Code", "Claude Code", "Jupyter", "Docker", "Slack", "LaTeX"],
+    "lenguajes": ["Python", "C++", "Rust", "Java", "C", "SQL"],
+    "herramientas": ["Git", "GitHub", "Claude Code", "Jupyter", "Docker", "Supabase", "Slack", "Jira"],
     "arquitecturas": ["MLP", "Transformer", "Autoencoder", "RAG", "Agentes", "Multimodal"],
     "intereses": ["IA", "ML", "NLP", "Programación Competitiva"],
     "asociaciones": {
